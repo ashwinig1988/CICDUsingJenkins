@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-28T12:30:23 GST" name="Default suite" finished-at="2023-09-28T12:30:39 GST" duration-ms="15794">
+    <groups>
+    </groups>
+    <test started-at="2023-09-28T12:30:23 GST" name="Default test" finished-at="2023-09-28T12:30:39 GST" duration-ms="15794">
+      <class name="automation.CICDDemo.TestHomePage">
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:automation.CICDDemo.TestHomePage@d29f28]" started-at="2023-09-28T12:30:23 GST" name="launchDriver" finished-at="2023-09-28T12:30:37 GST" duration-ms="14172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="Test1()[pri:1, instance:automation.CICDDemo.TestHomePage@d29f28]" started-at="2023-09-28T12:30:38 GST" name="Test1" finished-at="2023-09-28T12:30:38 GST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:2, instance:automation.CICDDemo.TestHomePage@d29f28]" started-at="2023-09-28T12:30:38 GST" name="Test2" finished-at="2023-09-28T12:30:39 GST" duration-ms="1114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- automation.CICDDemo.TestHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
